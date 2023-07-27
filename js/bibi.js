@@ -3,7 +3,7 @@ let total = 0
 let nowNum = 0
 let items = []
 let page = 1
-let Url = 'https://kkapi.leedespo.top/api/ispeak?author=64be8a12cacf3d3e6237c375&page=/bb/' // 修改api，记得带参数page
+let Url = 'https://kkapi.leedespo.top/api/ispeak?author=64be8a12cacf3d3e6237c375&page=1' // 修改api，记得带参数page
 
 
 window.addEventListener('DOMContentLoaded', () => {
